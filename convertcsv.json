@@ -1,0 +1,2342 @@
+[{
+    "plz": 5000,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 105,
+    "rang": 1,
+    "ortbez18": "Aarau",
+    "Kanton": "AG"
+  },
+  {
+    "plz": 5000,
+    "sexcode": "m",
+    "nachname": "Schmid",
+    "anzahl": 85,
+    "rang": 2,
+    "ortbez18": "Aarau",
+    "Kanton": "AG"
+  },
+  {
+    "plz": 5000,
+    "sexcode": "w",
+    "nachname": "Hunziker",
+    "anzahl": 64,
+    "rang": 3,
+    "ortbez18": "Aarau",
+    "Kanton": "AG"
+  },
+  {
+    "plz": 5000,
+    "sexcode": "w",
+    "nachname": "Wyss",
+    "anzahl": 55,
+    "rang": 4,
+    "ortbez18": "Aarau",
+    "Kanton": "AG"
+  },
+  {
+    "plz": 5000,
+    "sexcode": "m",
+    "nachname": "Hunziker",
+    "anzahl": 64,
+    "rang": 3,
+    "ortbez18": "Aarau",
+    "Kanton": "AG"
+  },
+  {
+    "plz": 5000,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 114,
+    "rang": 1,
+    "ortbez18": "Aarau",
+    "Kanton": "AG"
+  },
+  {
+    "plz": 5000,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 66,
+    "rang": 2,
+    "ortbez18": "Aarau",
+    "Kanton": "AG"
+  },
+  {
+    "plz": 5000,
+    "sexcode": "w",
+    "nachname": "Meier",
+    "anzahl": 50,
+    "rang": 5,
+    "ortbez18": "Aarau",
+    "Kanton": "AG"
+  },
+  {
+    "plz": 5000,
+    "sexcode": "m",
+    "nachname": "Meier",
+    "anzahl": 60,
+    "rang": 4,
+    "ortbez18": "Aarau",
+    "Kanton": "AG"
+  },
+  {
+    "plz": 5000,
+    "sexcode": "m",
+    "nachname": "Fischer",
+    "anzahl": 54,
+    "rang": 5,
+    "ortbez18": "Aarau",
+    "Kanton": "AG"
+  },
+  {
+    "plz": 9050,
+    "sexcode": "w",
+    "nachname": "Inauen",
+    "anzahl": 267,
+    "rang": 1,
+    "ortbez18": "Appenzell",
+    "Kanton": "AI"
+  },
+  {
+    "plz": 9050,
+    "sexcode": "m",
+    "nachname": "Faessler",
+    "anzahl": 254,
+    "rang": 1,
+    "ortbez18": "Appenzell",
+    "Kanton": "AI"
+  },
+  {
+    "plz": 9050,
+    "sexcode": "m",
+    "nachname": "Manser",
+    "anzahl": 222,
+    "rang": 3,
+    "ortbez18": "Appenzell",
+    "Kanton": "AI"
+  },
+  {
+    "plz": 9050,
+    "sexcode": "w",
+    "nachname": "Manser",
+    "anzahl": 210,
+    "rang": 3,
+    "ortbez18": "Appenzell",
+    "Kanton": "AI"
+  },
+  {
+    "plz": 9050,
+    "sexcode": "w",
+    "nachname": "Koller",
+    "anzahl": 158,
+    "rang": 4,
+    "ortbez18": "Appenzell",
+    "Kanton": "AI"
+  },
+  {
+    "plz": 9050,
+    "sexcode": "m",
+    "nachname": "Koller",
+    "anzahl": 195,
+    "rang": 4,
+    "ortbez18": "Appenzell",
+    "Kanton": "AI"
+  },
+  {
+    "plz": 9050,
+    "sexcode": "w",
+    "nachname": "Faessler",
+    "anzahl": 219,
+    "rang": 2,
+    "ortbez18": "Appenzell",
+    "Kanton": "AI"
+  },
+  {
+    "plz": 9050,
+    "sexcode": "w",
+    "nachname": "Doerig",
+    "anzahl": 148,
+    "rang": 5,
+    "ortbez18": "Appenzell",
+    "Kanton": "AI"
+  },
+  {
+    "plz": 9050,
+    "sexcode": "m",
+    "nachname": "Inauen",
+    "anzahl": 253,
+    "rang": 2,
+    "ortbez18": "Appenzell",
+    "Kanton": "AI"
+  },
+  {
+    "plz": 9050,
+    "sexcode": "m",
+    "nachname": "Sutter",
+    "anzahl": 150,
+    "rang": 5,
+    "ortbez18": "Appenzell",
+    "Kanton": "AI"
+  },
+  {
+    "plz": 4051,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 51,
+    "rang": 1,
+    "ortbez18": "Basel",
+    "Kanton": "BS"
+  },
+  {
+    "plz": 4051,
+    "sexcode": "w",
+    "nachname": "Keller",
+    "anzahl": 30,
+    "rang": 2,
+    "ortbez18": "Basel",
+    "Kanton": "BS"
+  },
+  {
+    "plz": 4051,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 29,
+    "rang": 3,
+    "ortbez18": "Basel",
+    "Kanton": "BS"
+  },
+  {
+    "plz": 4051,
+    "sexcode": "w",
+    "nachname": "Weber",
+    "anzahl": 25,
+    "rang": 5,
+    "ortbez18": "Basel",
+    "Kanton": "BS"
+  },
+  {
+    "plz": 4051,
+    "sexcode": "w",
+    "nachname": "Meyer",
+    "anzahl": 28,
+    "rang": 4,
+    "ortbez18": "Basel",
+    "Kanton": "BS"
+  },
+  {
+    "plz": 4051,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 64,
+    "rang": 1,
+    "ortbez18": "Basel",
+    "Kanton": "BS"
+  },
+  {
+    "plz": 4051,
+    "sexcode": "m",
+    "nachname": "Fischer",
+    "anzahl": 36,
+    "rang": 5,
+    "ortbez18": "Basel",
+    "Kanton": "BS"
+  },
+  {
+    "plz": 4051,
+    "sexcode": "m",
+    "nachname": "Schmid",
+    "anzahl": 43,
+    "rang": 3,
+    "ortbez18": "Basel",
+    "Kanton": "BS"
+  },
+  {
+    "plz": 4051,
+    "sexcode": "m",
+    "nachname": "Schneider",
+    "anzahl": 41,
+    "rang": 4,
+    "ortbez18": "Basel",
+    "Kanton": "BS"
+  },
+  {
+    "plz": 4051,
+    "sexcode": "m",
+    "nachname": "Meyer",
+    "anzahl": 46,
+    "rang": 2,
+    "ortbez18": "Basel",
+    "Kanton": "BS"
+  },
+  {
+    "plz": 3900,
+    "sexcode": "w",
+    "nachname": "Escher",
+    "anzahl": 36,
+    "rang": 5,
+    "ortbez18": "Brig",
+    "Kanton": "VS"
+  },
+  {
+    "plz": 3900,
+    "sexcode": "m",
+    "nachname": "Escher",
+    "anzahl": 34,
+    "rang": 5,
+    "ortbez18": "Brig",
+    "Kanton": "VS"
+  },
+  {
+    "plz": 3900,
+    "sexcode": "w",
+    "nachname": "Roten",
+    "anzahl": 41,
+    "rang": 2,
+    "ortbez18": "Brig",
+    "Kanton": "VS"
+  },
+  {
+    "plz": 3900,
+    "sexcode": "w",
+    "nachname": "Ritz",
+    "anzahl": 40,
+    "rang": 3,
+    "ortbez18": "Brig",
+    "Kanton": "VS"
+  },
+  {
+    "plz": 3900,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 38,
+    "rang": 4,
+    "ortbez18": "Brig",
+    "Kanton": "VS"
+  },
+  {
+    "plz": 3900,
+    "sexcode": "m",
+    "nachname": "Roten",
+    "anzahl": 39,
+    "rang": 3,
+    "ortbez18": "Brig",
+    "Kanton": "VS"
+  },
+  {
+    "plz": 3900,
+    "sexcode": "m",
+    "nachname": "Jossen",
+    "anzahl": 35,
+    "rang": 4,
+    "ortbez18": "Brig",
+    "Kanton": "VS"
+  },
+  {
+    "plz": 3900,
+    "sexcode": "w",
+    "nachname": "Imhof",
+    "anzahl": 48,
+    "rang": 1,
+    "ortbez18": "Brig",
+    "Kanton": "VS"
+  },
+  {
+    "plz": 3900,
+    "sexcode": "m",
+    "nachname": "Schmid",
+    "anzahl": 47,
+    "rang": 2,
+    "ortbez18": "Brig",
+    "Kanton": "VS"
+  },
+  {
+    "plz": 3900,
+    "sexcode": "m",
+    "nachname": "Pfammatter",
+    "anzahl": 52,
+    "rang": 1,
+    "ortbez18": "Brig",
+    "Kanton": "VS"
+  },
+  {
+    "plz": 7000,
+    "sexcode": "w",
+    "nachname": "Hartmann",
+    "anzahl": 100,
+    "rang": 4,
+    "ortbez18": "Chur",
+    "Kanton": "GR"
+  },
+  {
+    "plz": 7000,
+    "sexcode": "w",
+    "nachname": "Meier",
+    "anzahl": 96,
+    "rang": 5,
+    "ortbez18": "Chur",
+    "Kanton": "GR"
+  },
+  {
+    "plz": 7000,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 113,
+    "rang": 2,
+    "ortbez18": "Chur",
+    "Kanton": "GR"
+  },
+  {
+    "plz": 7000,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 165,
+    "rang": 1,
+    "ortbez18": "Chur",
+    "Kanton": "GR"
+  },
+  {
+    "plz": 7000,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 115,
+    "rang": 2,
+    "ortbez18": "Chur",
+    "Kanton": "GR"
+  },
+  {
+    "plz": 7000,
+    "sexcode": "m",
+    "nachname": "Schmid",
+    "anzahl": 203,
+    "rang": 1,
+    "ortbez18": "Chur",
+    "Kanton": "GR"
+  },
+  {
+    "plz": 7000,
+    "sexcode": "m",
+    "nachname": "Derungs",
+    "anzahl": 111,
+    "rang": 3,
+    "ortbez18": "Chur",
+    "Kanton": "GR"
+  },
+  {
+    "plz": 7000,
+    "sexcode": "w",
+    "nachname": "Derungs",
+    "anzahl": 106,
+    "rang": 3,
+    "ortbez18": "Chur",
+    "Kanton": "GR"
+  },
+  {
+    "plz": 7000,
+    "sexcode": "m",
+    "nachname": "Meier",
+    "anzahl": 91,
+    "rang": 4,
+    "ortbez18": "Chur",
+    "Kanton": "GR"
+  },
+  {
+    "plz": 7000,
+    "sexcode": "m",
+    "nachname": "Hartmann",
+    "anzahl": 88,
+    "rang": 5,
+    "ortbez18": "Chur",
+    "Kanton": "GR"
+  },
+  {
+    "plz": 9000,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 153,
+    "rang": 1,
+    "ortbez18": "St. Gallen",
+    "Kanton": "SG"
+  },
+  {
+    "plz": 9000,
+    "sexcode": "w",
+    "nachname": "Huber",
+    "anzahl": 74,
+    "rang": 4,
+    "ortbez18": "St. Gallen",
+    "Kanton": "SG"
+  },
+  {
+    "plz": 9000,
+    "sexcode": "m",
+    "nachname": "Schmid",
+    "anzahl": 119,
+    "rang": 2,
+    "ortbez18": "St. Gallen",
+    "Kanton": "SG"
+  },
+  {
+    "plz": 9000,
+    "sexcode": "m",
+    "nachname": "Schneider",
+    "anzahl": 88,
+    "rang": 4,
+    "ortbez18": "St. Gallen",
+    "Kanton": "SG"
+  },
+  {
+    "plz": 9000,
+    "sexcode": "m",
+    "nachname": "Meier",
+    "anzahl": 92,
+    "rang": 3,
+    "ortbez18": "St. Gallen",
+    "Kanton": "SG"
+  },
+  {
+    "plz": 9000,
+    "sexcode": "m",
+    "nachname": "Keller",
+    "anzahl": 79,
+    "rang": 5,
+    "ortbez18": "St. Gallen",
+    "Kanton": "SG"
+  },
+  {
+    "plz": 9000,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 127,
+    "rang": 2,
+    "ortbez18": "St. Gallen",
+    "Kanton": "SG"
+  },
+  {
+    "plz": 9000,
+    "sexcode": "w",
+    "nachname": "Keller",
+    "anzahl": 89,
+    "rang": 3,
+    "ortbez18": "St. Gallen",
+    "Kanton": "SG"
+  },
+  {
+    "plz": 9000,
+    "sexcode": "w",
+    "nachname": "Meier",
+    "anzahl": 66,
+    "rang": 5,
+    "ortbez18": "St. Gallen",
+    "Kanton": "SG"
+  },
+  {
+    "plz": 9000,
+    "sexcode": "m",
+    "nachname": "MÃ¼ller",
+    "anzahl": 174,
+    "rang": 1,
+    "ortbez18": "St. Gallen",
+    "Kanton": "SG"
+  },
+  {
+    "plz": 1003,
+    "sexcode": "w",
+    "nachname": "Truempy Waridel",
+    "anzahl": 10,
+    "rang": 2,
+    "ortbez18": "Lausanne",
+    "Kanton": "VD"
+  },
+  {
+    "plz": 1003,
+    "sexcode": "m",
+    "nachname": "Rochat",
+    "anzahl": 26,
+    "rang": 1,
+    "ortbez18": "Lausanne",
+    "Kanton": "VD"
+  },
+  {
+    "plz": 1003,
+    "sexcode": "m",
+    "nachname": "Martin",
+    "anzahl": 22,
+    "rang": 2,
+    "ortbez18": "Lausanne",
+    "Kanton": "VD"
+  },
+  {
+    "plz": 1003,
+    "sexcode": "m",
+    "nachname": "Favre",
+    "anzahl": 17,
+    "rang": 3,
+    "ortbez18": "Lausanne",
+    "Kanton": "VD"
+  },
+  {
+    "plz": 1003,
+    "sexcode": "w",
+    "nachname": "Ruf",
+    "anzahl": 18,
+    "rang": 1,
+    "ortbez18": "Lausanne",
+    "Kanton": "VD"
+  },
+  {
+    "plz": 1003,
+    "sexcode": "w",
+    "nachname": "Pinferetti",
+    "anzahl": 10,
+    "rang": 2,
+    "ortbez18": "Lausanne",
+    "Kanton": "VD"
+  },
+  {
+    "plz": 1003,
+    "sexcode": "w",
+    "nachname": "Truempy",
+    "anzahl": 10,
+    "rang": 2,
+    "ortbez18": "Lausanne",
+    "Kanton": "VD"
+  },
+  {
+    "plz": 1003,
+    "sexcode": "m",
+    "nachname": "Nguyen",
+    "anzahl": 17,
+    "rang": 3,
+    "ortbez18": "Lausanne",
+    "Kanton": "VD"
+  },
+  {
+    "plz": 1003,
+    "sexcode": "m",
+    "nachname": "Blanc",
+    "anzahl": 13,
+    "rang": 5,
+    "ortbez18": "Lausanne",
+    "Kanton": "VD"
+  },
+  {
+    "plz": 1003,
+    "sexcode": "w",
+    "nachname": "Zoumut",
+    "anzahl": 10,
+    "rang": 2,
+    "ortbez18": "Lausanne",
+    "Kanton": "VD"
+  },
+  {
+    "plz": 1003,
+    "sexcode": "w",
+    "nachname": "Haemmerli Freitas de Oliveira",
+    "anzahl": 10,
+    "rang": 2,
+    "ortbez18": "Lausanne",
+    "Kanton": "VD"
+  },
+  {
+    "plz": 8302,
+    "sexcode": "w",
+    "nachname": "Meier",
+    "anzahl": 82,
+    "rang": 1,
+    "ortbez18": "Kloten",
+    "Kanton": "ZH"
+  },
+  {
+    "plz": 8302,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 75,
+    "rang": 2,
+    "ortbez18": "Kloten",
+    "Kanton": "ZH"
+  },
+  {
+    "plz": 8302,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 55,
+    "rang": 3,
+    "ortbez18": "Kloten",
+    "Kanton": "ZH"
+  },
+  {
+    "plz": 8302,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 89,
+    "rang": 1,
+    "ortbez18": "Kloten",
+    "Kanton": "ZH"
+  },
+  {
+    "plz": 8302,
+    "sexcode": "m",
+    "nachname": "Schmid",
+    "anzahl": 60,
+    "rang": 3,
+    "ortbez18": "Kloten",
+    "Kanton": "ZH"
+  },
+  {
+    "plz": 8302,
+    "sexcode": "w",
+    "nachname": "Brunner",
+    "anzahl": 41,
+    "rang": 4,
+    "ortbez18": "Kloten",
+    "Kanton": "ZH"
+  },
+  {
+    "plz": 8302,
+    "sexcode": "m",
+    "nachname": "Keller",
+    "anzahl": 52,
+    "rang": 4,
+    "ortbez18": "Kloten",
+    "Kanton": "ZH"
+  },
+  {
+    "plz": 8302,
+    "sexcode": "m",
+    "nachname": "Weber",
+    "anzahl": 41,
+    "rang": 5,
+    "ortbez18": "Kloten",
+    "Kanton": "ZH"
+  },
+  {
+    "plz": 8302,
+    "sexcode": "w",
+    "nachname": "Keller",
+    "anzahl": 41,
+    "rang": 4,
+    "ortbez18": "Kloten",
+    "Kanton": "ZH"
+  },
+  {
+    "plz": 8302,
+    "sexcode": "m",
+    "nachname": "Meier",
+    "anzahl": 82,
+    "rang": 2,
+    "ortbez18": "Kloten",
+    "Kanton": "ZH"
+  },
+  {
+    "plz": 6900,
+    "sexcode": "w",
+    "nachname": "Rezzonico",
+    "anzahl": 56,
+    "rang": 4,
+    "ortbez18": "Lugano",
+    "Kanton": "TI"
+  },
+  {
+    "plz": 6900,
+    "sexcode": "m",
+    "nachname": "Ferrari",
+    "anzahl": 70,
+    "rang": 3,
+    "ortbez18": "Lugano",
+    "Kanton": "TI"
+  },
+  {
+    "plz": 6900,
+    "sexcode": "w",
+    "nachname": "Colombo",
+    "anzahl": 65,
+    "rang": 3,
+    "ortbez18": "Lugano",
+    "Kanton": "TI"
+  },
+  {
+    "plz": 6900,
+    "sexcode": "w",
+    "nachname": "Rossi",
+    "anzahl": 56,
+    "rang": 4,
+    "ortbez18": "Lugano",
+    "Kanton": "TI"
+  },
+  {
+    "plz": 6900,
+    "sexcode": "m",
+    "nachname": "Colombo",
+    "anzahl": 75,
+    "rang": 2,
+    "ortbez18": "Lugano",
+    "Kanton": "TI"
+  },
+  {
+    "plz": 6900,
+    "sexcode": "m",
+    "nachname": "Bianchi",
+    "anzahl": 70,
+    "rang": 3,
+    "ortbez18": "Lugano",
+    "Kanton": "TI"
+  },
+  {
+    "plz": 6900,
+    "sexcode": "m",
+    "nachname": "Cattaneo",
+    "anzahl": 61,
+    "rang": 5,
+    "ortbez18": "Lugano",
+    "Kanton": "TI"
+  },
+  {
+    "plz": 6900,
+    "sexcode": "w",
+    "nachname": "Bernasconi",
+    "anzahl": 160,
+    "rang": 1,
+    "ortbez18": "Lugano",
+    "Kanton": "TI"
+  },
+  {
+    "plz": 6900,
+    "sexcode": "w",
+    "nachname": "Bianchi",
+    "anzahl": 74,
+    "rang": 2,
+    "ortbez18": "Lugano",
+    "Kanton": "TI"
+  },
+  {
+    "plz": 6900,
+    "sexcode": "m",
+    "nachname": "Bernasconi",
+    "anzahl": 210,
+    "rang": 1,
+    "ortbez18": "Lugano",
+    "Kanton": "TI"
+  },
+  {
+    "plz": 4105,
+    "sexcode": "m",
+    "nachname": "Kleiber",
+    "anzahl": 51,
+    "rang": 1,
+    "ortbez18": "Biel-Benken",
+    "Kanton": "BL"
+  },
+  {
+    "plz": 4105,
+    "sexcode": "w",
+    "nachname": "Kleiber",
+    "anzahl": 42,
+    "rang": 1,
+    "ortbez18": "Biel-Benken",
+    "Kanton": "BL"
+  },
+  {
+    "plz": 4105,
+    "sexcode": "w",
+    "nachname": "Leu",
+    "anzahl": 29,
+    "rang": 2,
+    "ortbez18": "Biel-Benken",
+    "Kanton": "BL"
+  },
+  {
+    "plz": 4105,
+    "sexcode": "m",
+    "nachname": "Leu",
+    "anzahl": 24,
+    "rang": 2,
+    "ortbez18": "Biel-Benken",
+    "Kanton": "BL"
+  },
+  {
+    "plz": 4105,
+    "sexcode": "m",
+    "nachname": "Jaeggi",
+    "anzahl": 22,
+    "rang": 3,
+    "ortbez18": "Biel-Benken",
+    "Kanton": "BL"
+  },
+  {
+    "plz": 4105,
+    "sexcode": "m",
+    "nachname": "Brunner",
+    "anzahl": 22,
+    "rang": 3,
+    "ortbez18": "Biel-Benken",
+    "Kanton": "BL"
+  },
+  {
+    "plz": 4105,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 20,
+    "rang": 3,
+    "ortbez18": "Biel-Benken",
+    "Kanton": "BL"
+  },
+  {
+    "plz": 4105,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 18,
+    "rang": 5,
+    "ortbez18": "Biel-Benken",
+    "Kanton": "BL"
+  },
+  {
+    "plz": 4105,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 17,
+    "rang": 4,
+    "ortbez18": "Biel-Benken",
+    "Kanton": "BL"
+  },
+  {
+    "plz": 4105,
+    "sexcode": "w",
+    "nachname": "Heyer",
+    "anzahl": 16,
+    "rang": 5,
+    "ortbez18": "Biel-Benken",
+    "Kanton": "BL"
+  },
+  {
+    "plz": 6467,
+    "sexcode": "w",
+    "nachname": "Arnold",
+    "anzahl": 224,
+    "rang": 2,
+    "ortbez18": "Schattdorf",
+    "Kanton": "UR"
+  },
+  {
+    "plz": 6467,
+    "sexcode": "w",
+    "nachname": "Herger",
+    "anzahl": 72,
+    "rang": 5,
+    "ortbez18": "Schattdorf",
+    "Kanton": "UR"
+  },
+  {
+    "plz": 6467,
+    "sexcode": "w",
+    "nachname": "Gisler",
+    "anzahl": 264,
+    "rang": 1,
+    "ortbez18": "Schattdorf",
+    "Kanton": "UR"
+  },
+  {
+    "plz": 6467,
+    "sexcode": "w",
+    "nachname": "Zgraggen",
+    "anzahl": 110,
+    "rang": 3,
+    "ortbez18": "Schattdorf",
+    "Kanton": "UR"
+  },
+  {
+    "plz": 6467,
+    "sexcode": "m",
+    "nachname": "Bissig",
+    "anzahl": 77,
+    "rang": 5,
+    "ortbez18": "Schattdorf",
+    "Kanton": "UR"
+  },
+  {
+    "plz": 6467,
+    "sexcode": "w",
+    "nachname": "Walker",
+    "anzahl": 73,
+    "rang": 4,
+    "ortbez18": "Schattdorf",
+    "Kanton": "UR"
+  },
+  {
+    "plz": 6467,
+    "sexcode": "m",
+    "nachname": "Gisler",
+    "anzahl": 298,
+    "rang": 1,
+    "ortbez18": "Schattdorf",
+    "Kanton": "UR"
+  },
+  {
+    "plz": 6467,
+    "sexcode": "m",
+    "nachname": "Arnold",
+    "anzahl": 207,
+    "rang": 2,
+    "ortbez18": "Schattdorf",
+    "Kanton": "UR"
+  },
+  {
+    "plz": 6467,
+    "sexcode": "m",
+    "nachname": "Zgraggen",
+    "anzahl": 113,
+    "rang": 3,
+    "ortbez18": "Schattdorf",
+    "Kanton": "UR"
+  },
+  {
+    "plz": 6467,
+    "sexcode": "m",
+    "nachname": "Herger",
+    "anzahl": 94,
+    "rang": 4,
+    "ortbez18": "Schattdorf",
+    "Kanton": "UR"
+  },
+  {
+    "plz": 8750,
+    "sexcode": "w",
+    "nachname": "Haesli",
+    "anzahl": 37,
+    "rang": 4,
+    "ortbez18": "Glarus",
+    "Kanton": "GL"
+  },
+  {
+    "plz": 8750,
+    "sexcode": "m",
+    "nachname": "Marti",
+    "anzahl": 47,
+    "rang": 5,
+    "ortbez18": "Glarus",
+    "Kanton": "GL"
+  },
+  {
+    "plz": 8750,
+    "sexcode": "w",
+    "nachname": "Hefti",
+    "anzahl": 58,
+    "rang": 1,
+    "ortbez18": "Glarus",
+    "Kanton": "GL"
+  },
+  {
+    "plz": 8750,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 45,
+    "rang": 3,
+    "ortbez18": "Glarus",
+    "Kanton": "GL"
+  },
+  {
+    "plz": 8750,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 52,
+    "rang": 3,
+    "ortbez18": "Glarus",
+    "Kanton": "GL"
+  },
+  {
+    "plz": 8750,
+    "sexcode": "w",
+    "nachname": "Leuzinger",
+    "anzahl": 52,
+    "rang": 2,
+    "ortbez18": "Glarus",
+    "Kanton": "GL"
+  },
+  {
+    "plz": 8750,
+    "sexcode": "w",
+    "nachname": "Stuessi",
+    "anzahl": 37,
+    "rang": 4,
+    "ortbez18": "Glarus",
+    "Kanton": "GL"
+  },
+  {
+    "plz": 8750,
+    "sexcode": "m",
+    "nachname": "Hefti",
+    "anzahl": 75,
+    "rang": 1,
+    "ortbez18": "Glarus",
+    "Kanton": "GL"
+  },
+  {
+    "plz": 8750,
+    "sexcode": "m",
+    "nachname": "Leuzinger",
+    "anzahl": 55,
+    "rang": 2,
+    "ortbez18": "Glarus",
+    "Kanton": "GL"
+  },
+  {
+    "plz": 8750,
+    "sexcode": "m",
+    "nachname": "Stuessi",
+    "anzahl": 48,
+    "rang": 4,
+    "ortbez18": "Glarus",
+    "Kanton": "GL"
+  },
+  {
+    "plz": 8500,
+    "sexcode": "w",
+    "nachname": "Frei",
+    "anzahl": 88,
+    "rang": 3,
+    "ortbez18": "Frauenfeld",
+    "Kanton": "TG"
+  },
+  {
+    "plz": 8500,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 76,
+    "rang": 5,
+    "ortbez18": "Frauenfeld",
+    "Kanton": "TG"
+  },
+  {
+    "plz": 8500,
+    "sexcode": "m",
+    "nachname": "Keller",
+    "anzahl": 122,
+    "rang": 2,
+    "ortbez18": "Frauenfeld",
+    "Kanton": "TG"
+  },
+  {
+    "plz": 8500,
+    "sexcode": "m",
+    "nachname": "Meier",
+    "anzahl": 75,
+    "rang": 4,
+    "ortbez18": "Frauenfeld",
+    "Kanton": "TG"
+  },
+  {
+    "plz": 8500,
+    "sexcode": "m",
+    "nachname": "Frei",
+    "anzahl": 74,
+    "rang": 5,
+    "ortbez18": "Frauenfeld",
+    "Kanton": "TG"
+  },
+  {
+    "plz": 8500,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 124,
+    "rang": 1,
+    "ortbez18": "Frauenfeld",
+    "Kanton": "TG"
+  },
+  {
+    "plz": 8500,
+    "sexcode": "w",
+    "nachname": "Keller",
+    "anzahl": 108,
+    "rang": 2,
+    "ortbez18": "Frauenfeld",
+    "Kanton": "TG"
+  },
+  {
+    "plz": 8500,
+    "sexcode": "m",
+    "nachname": "Huber",
+    "anzahl": 77,
+    "rang": 3,
+    "ortbez18": "Frauenfeld",
+    "Kanton": "TG"
+  },
+  {
+    "plz": 8500,
+    "sexcode": "w",
+    "nachname": "Huber",
+    "anzahl": 85,
+    "rang": 4,
+    "ortbez18": "Frauenfeld",
+    "Kanton": "TG"
+  },
+  {
+    "plz": 8500,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 145,
+    "rang": 1,
+    "ortbez18": "Frauenfeld",
+    "Kanton": "TG"
+  },
+  {
+    "plz": 6003,
+    "sexcode": "w",
+    "nachname": "Bucher",
+    "anzahl": 67,
+    "rang": 2,
+    "ortbez18": "Luzern",
+    "Kanton": "LU"
+  },
+  {
+    "plz": 6003,
+    "sexcode": "w",
+    "nachname": "Meier",
+    "anzahl": 57,
+    "rang": 3,
+    "ortbez18": "Luzern",
+    "Kanton": "LU"
+  },
+  {
+    "plz": 6003,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 47,
+    "rang": 5,
+    "ortbez18": "Luzern",
+    "Kanton": "LU"
+  },
+  {
+    "plz": 6003,
+    "sexcode": "m",
+    "nachname": "Schmid",
+    "anzahl": 55,
+    "rang": 4,
+    "ortbez18": "Luzern",
+    "Kanton": "LU"
+  },
+  {
+    "plz": 6003,
+    "sexcode": "m",
+    "nachname": "Bucher",
+    "anzahl": 53,
+    "rang": 5,
+    "ortbez18": "Luzern",
+    "Kanton": "LU"
+  },
+  {
+    "plz": 6003,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 102,
+    "rang": 1,
+    "ortbez18": "Luzern",
+    "Kanton": "LU"
+  },
+  {
+    "plz": 6003,
+    "sexcode": "w",
+    "nachname": "Fischer",
+    "anzahl": 51,
+    "rang": 4,
+    "ortbez18": "Luzern",
+    "Kanton": "LU"
+  },
+  {
+    "plz": 6003,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 102,
+    "rang": 1,
+    "ortbez18": "Luzern",
+    "Kanton": "LU"
+  },
+  {
+    "plz": 6003,
+    "sexcode": "m",
+    "nachname": "Meier",
+    "anzahl": 80,
+    "rang": 2,
+    "ortbez18": "Luzern",
+    "Kanton": "LU"
+  },
+  {
+    "plz": 6003,
+    "sexcode": "m",
+    "nachname": "Fischer",
+    "anzahl": 58,
+    "rang": 3,
+    "ortbez18": "Luzern",
+    "Kanton": "LU"
+  },
+  {
+    "plz": 9100,
+    "sexcode": "m",
+    "nachname": "Huber",
+    "anzahl": 52,
+    "rang": 5,
+    "ortbez18": "Herisau",
+    "Kanton": "AR"
+  },
+  {
+    "plz": 9100,
+    "sexcode": "w",
+    "nachname": "Frischknecht",
+    "anzahl": 81,
+    "rang": 1,
+    "ortbez18": "Herisau",
+    "Kanton": "AR"
+  },
+  {
+    "plz": 9100,
+    "sexcode": "w",
+    "nachname": "Meier",
+    "anzahl": 61,
+    "rang": 4,
+    "ortbez18": "Herisau",
+    "Kanton": "AR"
+  },
+  {
+    "plz": 9100,
+    "sexcode": "m",
+    "nachname": "Frischknecht",
+    "anzahl": 90,
+    "rang": 1,
+    "ortbez18": "Herisau",
+    "Kanton": "AR"
+  },
+  {
+    "plz": 9100,
+    "sexcode": "m",
+    "nachname": "Signer",
+    "anzahl": 59,
+    "rang": 4,
+    "ortbez18": "Herisau",
+    "Kanton": "AR"
+  },
+  {
+    "plz": 9100,
+    "sexcode": "w",
+    "nachname": "Keller",
+    "anzahl": 75,
+    "rang": 2,
+    "ortbez18": "Herisau",
+    "Kanton": "AR"
+  },
+  {
+    "plz": 9100,
+    "sexcode": "w",
+    "nachname": "Signer",
+    "anzahl": 62,
+    "rang": 3,
+    "ortbez18": "Herisau",
+    "Kanton": "AR"
+  },
+  {
+    "plz": 9100,
+    "sexcode": "w",
+    "nachname": "Koller",
+    "anzahl": 56,
+    "rang": 5,
+    "ortbez18": "Herisau",
+    "Kanton": "AR"
+  },
+  {
+    "plz": 9100,
+    "sexcode": "m",
+    "nachname": "Keller",
+    "anzahl": 67,
+    "rang": 2,
+    "ortbez18": "Herisau",
+    "Kanton": "AR"
+  },
+  {
+    "plz": 9100,
+    "sexcode": "m",
+    "nachname": "Meier",
+    "anzahl": 66,
+    "rang": 3,
+    "ortbez18": "Herisau",
+    "Kanton": "AR"
+  },
+  {
+    "plz": 8200,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 146,
+    "rang": 1,
+    "ortbez18": "Schaffhausen",
+    "Kanton": "SH"
+  },
+  {
+    "plz": 8200,
+    "sexcode": "w",
+    "nachname": "Keller",
+    "anzahl": 97,
+    "rang": 2,
+    "ortbez18": "Schaffhausen",
+    "Kanton": "SH"
+  },
+  {
+    "plz": 8200,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 82,
+    "rang": 4,
+    "ortbez18": "Schaffhausen",
+    "Kanton": "SH"
+  },
+  {
+    "plz": 8200,
+    "sexcode": "w",
+    "nachname": "Schneider",
+    "anzahl": 65,
+    "rang": 5,
+    "ortbez18": "Schaffhausen",
+    "Kanton": "SH"
+  },
+  {
+    "plz": 8200,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 169,
+    "rang": 1,
+    "ortbez18": "Schaffhausen",
+    "Kanton": "SH"
+  },
+  {
+    "plz": 8200,
+    "sexcode": "m",
+    "nachname": "Weber",
+    "anzahl": 83,
+    "rang": 4,
+    "ortbez18": "Schaffhausen",
+    "Kanton": "SH"
+  },
+  {
+    "plz": 8200,
+    "sexcode": "m",
+    "nachname": "Schmid",
+    "anzahl": 82,
+    "rang": 5,
+    "ortbez18": "Schaffhausen",
+    "Kanton": "SH"
+  },
+  {
+    "plz": 8200,
+    "sexcode": "w",
+    "nachname": "Meier",
+    "anzahl": 95,
+    "rang": 3,
+    "ortbez18": "Schaffhausen",
+    "Kanton": "SH"
+  },
+  {
+    "plz": 8200,
+    "sexcode": "m",
+    "nachname": "Meier",
+    "anzahl": 89,
+    "rang": 3,
+    "ortbez18": "Schaffhausen",
+    "Kanton": "SH"
+  },
+  {
+    "plz": 8200,
+    "sexcode": "m",
+    "nachname": "Keller",
+    "anzahl": 103,
+    "rang": 2,
+    "ortbez18": "Schaffhausen",
+    "Kanton": "SH"
+  },
+  {
+    "plz": 6300,
+    "sexcode": "m",
+    "nachname": "Weiss",
+    "anzahl": 89,
+    "rang": 3,
+    "ortbez18": "Zug/Zugerberg",
+    "Kanton": "ZG"
+  },
+  {
+    "plz": 6300,
+    "sexcode": "m",
+    "nachname": "Iten",
+    "anzahl": 87,
+    "rang": 5,
+    "ortbez18": "Zug/Zugerberg",
+    "Kanton": "ZG"
+  },
+  {
+    "plz": 6300,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 174,
+    "rang": 1,
+    "ortbez18": "Zug/Zugerberg",
+    "Kanton": "ZG"
+  },
+  {
+    "plz": 6300,
+    "sexcode": "m",
+    "nachname": "Meier",
+    "anzahl": 119,
+    "rang": 2,
+    "ortbez18": "Zug/Zugerberg",
+    "Kanton": "ZG"
+  },
+  {
+    "plz": 6300,
+    "sexcode": "m",
+    "nachname": "Huber",
+    "anzahl": 88,
+    "rang": 4,
+    "ortbez18": "Zug/Zugerberg",
+    "Kanton": "ZG"
+  },
+  {
+    "plz": 6300,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 126,
+    "rang": 1,
+    "ortbez18": "Zug/Zugerberg",
+    "Kanton": "ZG"
+  },
+  {
+    "plz": 6300,
+    "sexcode": "w",
+    "nachname": "Meier",
+    "anzahl": 97,
+    "rang": 3,
+    "ortbez18": "Zug/Zugerberg",
+    "Kanton": "ZG"
+  },
+  {
+    "plz": 6300,
+    "sexcode": "w",
+    "nachname": "Iten",
+    "anzahl": 68,
+    "rang": 5,
+    "ortbez18": "Zug/Zugerberg",
+    "Kanton": "ZG"
+  },
+  {
+    "plz": 6300,
+    "sexcode": "w",
+    "nachname": "Weber",
+    "anzahl": 109,
+    "rang": 2,
+    "ortbez18": "Zug/Zugerberg",
+    "Kanton": "ZG"
+  },
+  {
+    "plz": 6300,
+    "sexcode": "w",
+    "nachname": "Weiss",
+    "anzahl": 72,
+    "rang": 4,
+    "ortbez18": "Zug/Zugerberg",
+    "Kanton": "ZG"
+  },
+  {
+    "plz": 6430,
+    "sexcode": "w",
+    "nachname": "Betschart",
+    "anzahl": 103,
+    "rang": 1,
+    "ortbez18": "Schwyz",
+    "Kanton": "SZ"
+  },
+  {
+    "plz": 6430,
+    "sexcode": "w",
+    "nachname": "Reichmuth",
+    "anzahl": 75,
+    "rang": 4,
+    "ortbez18": "Schwyz",
+    "Kanton": "SZ"
+  },
+  {
+    "plz": 6430,
+    "sexcode": "w",
+    "nachname": "Steiner",
+    "anzahl": 79,
+    "rang": 3,
+    "ortbez18": "Schwyz",
+    "Kanton": "SZ"
+  },
+  {
+    "plz": 6430,
+    "sexcode": "m",
+    "nachname": "Betschart",
+    "anzahl": 95,
+    "rang": 2,
+    "ortbez18": "Schwyz",
+    "Kanton": "SZ"
+  },
+  {
+    "plz": 6430,
+    "sexcode": "m",
+    "nachname": "Steiner",
+    "anzahl": 86,
+    "rang": 3,
+    "ortbez18": "Schwyz",
+    "Kanton": "SZ"
+  },
+  {
+    "plz": 6430,
+    "sexcode": "w",
+    "nachname": "Schuler",
+    "anzahl": 97,
+    "rang": 2,
+    "ortbez18": "Schwyz",
+    "Kanton": "SZ"
+  },
+  {
+    "plz": 6430,
+    "sexcode": "w",
+    "nachname": "Reichlin",
+    "anzahl": 48,
+    "rang": 5,
+    "ortbez18": "Schwyz",
+    "Kanton": "SZ"
+  },
+  {
+    "plz": 6430,
+    "sexcode": "m",
+    "nachname": "Schuler",
+    "anzahl": 98,
+    "rang": 1,
+    "ortbez18": "Schwyz",
+    "Kanton": "SZ"
+  },
+  {
+    "plz": 6430,
+    "sexcode": "m",
+    "nachname": "Suter",
+    "anzahl": 63,
+    "rang": 4,
+    "ortbez18": "Schwyz",
+    "Kanton": "SZ"
+  },
+  {
+    "plz": 6430,
+    "sexcode": "m",
+    "nachname": "Reichmuth",
+    "anzahl": 63,
+    "rang": 4,
+    "ortbez18": "Schwyz",
+    "Kanton": "SZ"
+  },
+  {
+    "plz": 6060,
+    "sexcode": "m",
+    "nachname": "Burch",
+    "anzahl": 84,
+    "rang": 2,
+    "ortbez18": "Sarnen",
+    "Kanton": "OW"
+  },
+  {
+    "plz": 6060,
+    "sexcode": "m",
+    "nachname": "Imfeld",
+    "anzahl": 66,
+    "rang": 3,
+    "ortbez18": "Sarnen",
+    "Kanton": "OW"
+  },
+  {
+    "plz": 6060,
+    "sexcode": "m",
+    "nachname": "Dillier",
+    "anzahl": 54,
+    "rang": 4,
+    "ortbez18": "Sarnen",
+    "Kanton": "OW"
+  },
+  {
+    "plz": 6060,
+    "sexcode": "m",
+    "nachname": "Britschgi",
+    "anzahl": 53,
+    "rang": 5,
+    "ortbez18": "Sarnen",
+    "Kanton": "OW"
+  },
+  {
+    "plz": 6060,
+    "sexcode": "m",
+    "nachname": "Kiser",
+    "anzahl": 106,
+    "rang": 1,
+    "ortbez18": "Sarnen",
+    "Kanton": "OW"
+  },
+  {
+    "plz": 6060,
+    "sexcode": "w",
+    "nachname": "Burch",
+    "anzahl": 87,
+    "rang": 2,
+    "ortbez18": "Sarnen",
+    "Kanton": "OW"
+  },
+  {
+    "plz": 6060,
+    "sexcode": "w",
+    "nachname": "Imfeld",
+    "anzahl": 57,
+    "rang": 3,
+    "ortbez18": "Sarnen",
+    "Kanton": "OW"
+  },
+  {
+    "plz": 6060,
+    "sexcode": "w",
+    "nachname": "Rohrer",
+    "anzahl": 48,
+    "rang": 5,
+    "ortbez18": "Sarnen",
+    "Kanton": "OW"
+  },
+  {
+    "plz": 6060,
+    "sexcode": "w",
+    "nachname": "Kiser",
+    "anzahl": 90,
+    "rang": 1,
+    "ortbez18": "Sarnen",
+    "Kanton": "OW"
+  },
+  {
+    "plz": 6060,
+    "sexcode": "w",
+    "nachname": "Dillier",
+    "anzahl": 52,
+    "rang": 4,
+    "ortbez18": "Sarnen",
+    "Kanton": "OW"
+  },
+  {
+    "plz": 3989,
+    "sexcode": "m",
+    "nachname": "Walther",
+    "anzahl": 27,
+    "rang": 1,
+    "ortbez18": "Biel",
+    "Kanton": "NW"
+  },
+  {
+    "plz": 3989,
+    "sexcode": "m",
+    "nachname": "Diezig",
+    "anzahl": 15,
+    "rang": 2,
+    "ortbez18": "Biel",
+    "Kanton": "NW"
+  },
+  {
+    "plz": 3989,
+    "sexcode": "m",
+    "nachname": "Andereggen",
+    "anzahl": 12,
+    "rang": 4,
+    "ortbez18": "Biel",
+    "Kanton": "NW"
+  },
+  {
+    "plz": 3989,
+    "sexcode": "m",
+    "nachname": "Biderbost",
+    "anzahl": 11,
+    "rang": 5,
+    "ortbez18": "Biel",
+    "Kanton": "NW"
+  },
+  {
+    "plz": 3989,
+    "sexcode": "m",
+    "nachname": "Chastonay",
+    "anzahl": 13,
+    "rang": 3,
+    "ortbez18": "Biel",
+    "Kanton": "NW"
+  },
+  {
+    "plz": 3989,
+    "sexcode": "w",
+    "nachname": "Seiler",
+    "anzahl": 8,
+    "rang": 5,
+    "ortbez18": "Biel",
+    "Kanton": "NW"
+  },
+  {
+    "plz": 3989,
+    "sexcode": "w",
+    "nachname": "Walther",
+    "anzahl": 17,
+    "rang": 1,
+    "ortbez18": "Biel",
+    "Kanton": "NW"
+  },
+  {
+    "plz": 3989,
+    "sexcode": "w",
+    "nachname": "Andereggen",
+    "anzahl": 14,
+    "rang": 2,
+    "ortbez18": "Biel",
+    "Kanton": "NW"
+  },
+  {
+    "plz": 3989,
+    "sexcode": "w",
+    "nachname": "Ritz",
+    "anzahl": 13,
+    "rang": 3,
+    "ortbez18": "Biel",
+    "Kanton": "NW"
+  },
+  {
+    "plz": 3989,
+    "sexcode": "w",
+    "nachname": "Diezig",
+    "anzahl": 10,
+    "rang": 4,
+    "ortbez18": "Biel",
+    "Kanton": "NW"
+  },
+  {
+    "plz": 3005,
+    "sexcode": "w",
+    "nachname": "Weber",
+    "anzahl": 12,
+    "rang": 5,
+    "ortbez18": "Bern",
+    "Kanton": "BE"
+  },
+  {
+    "plz": 3005,
+    "sexcode": "w",
+    "nachname": "Keller",
+    "anzahl": 14,
+    "rang": 3,
+    "ortbez18": "Bern",
+    "Kanton": "BE"
+  },
+  {
+    "plz": 3005,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 20,
+    "rang": 1,
+    "ortbez18": "Bern",
+    "Kanton": "BE"
+  },
+  {
+    "plz": 3005,
+    "sexcode": "m",
+    "nachname": "Keller",
+    "anzahl": 14,
+    "rang": 3,
+    "ortbez18": "Bern",
+    "Kanton": "BE"
+  },
+  {
+    "plz": 3005,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 21,
+    "rang": 1,
+    "ortbez18": "Bern",
+    "Kanton": "BE"
+  },
+  {
+    "plz": 3005,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 17,
+    "rang": 2,
+    "ortbez18": "Bern",
+    "Kanton": "BE"
+  },
+  {
+    "plz": 3005,
+    "sexcode": "w",
+    "nachname": "Baumann",
+    "anzahl": 13,
+    "rang": 4,
+    "ortbez18": "Bern",
+    "Kanton": "BE"
+  },
+  {
+    "plz": 3005,
+    "sexcode": "m",
+    "nachname": "Zuercher ",
+    "anzahl": 15,
+    "rang": 2,
+    "ortbez18": "Bern",
+    "Kanton": "BE"
+  },
+  {
+    "plz": 3005,
+    "sexcode": "m",
+    "nachname": "Schmid",
+    "anzahl": 13,
+    "rang": 4,
+    "ortbez18": "Bern",
+    "Kanton": "BE"
+  },
+  {
+    "plz": 3005,
+    "sexcode": "m",
+    "nachname": "Liechti",
+    "anzahl": 13,
+    "rang": 4,
+    "ortbez18": "Bern",
+    "Kanton": "BE"
+  },
+  {
+    "plz": 4500,
+    "sexcode": "m",
+    "nachname": "Flury",
+    "anzahl": 66,
+    "rang": 2,
+    "ortbez18": "Solothurn",
+    "Kanton": "SO"
+  },
+  {
+    "plz": 4500,
+    "sexcode": "m",
+    "nachname": "Schmid",
+    "anzahl": 52,
+    "rang": 5,
+    "ortbez18": "Solothurn",
+    "Kanton": "SO"
+  },
+  {
+    "plz": 4500,
+    "sexcode": "m",
+    "nachname": "Mueller",
+    "anzahl": 67,
+    "rang": 1,
+    "ortbez18": "Solothurn",
+    "Kanton": "SO"
+  },
+  {
+    "plz": 4500,
+    "sexcode": "m",
+    "nachname": "Lehmann",
+    "anzahl": 59,
+    "rang": 4,
+    "ortbez18": "Solothurn",
+    "Kanton": "SO"
+  },
+  {
+    "plz": 4500,
+    "sexcode": "m",
+    "nachname": "Steiner",
+    "anzahl": 62,
+    "rang": 3,
+    "ortbez18": "Solothurn",
+    "Kanton": "SO"
+  },
+  {
+    "plz": 4500,
+    "sexcode": "w",
+    "nachname": "Wyss",
+    "anzahl": 57,
+    "rang": 2,
+    "ortbez18": "Solothurn",
+    "Kanton": "SO"
+  },
+  {
+    "plz": 4500,
+    "sexcode": "w",
+    "nachname": "Schmid",
+    "anzahl": 56,
+    "rang": 3,
+    "ortbez18": "Solothurn",
+    "Kanton": "SO"
+  },
+  {
+    "plz": 4500,
+    "sexcode": "w",
+    "nachname": "Steiner",
+    "anzahl": 53,
+    "rang": 4,
+    "ortbez18": "Solothurn",
+    "Kanton": "SO"
+  },
+  {
+    "plz": 4500,
+    "sexcode": "w",
+    "nachname": "Mueller",
+    "anzahl": 65,
+    "rang": 1,
+    "ortbez18": "Solothurn",
+    "Kanton": "SO"
+  },
+  {
+    "plz": 4500,
+    "sexcode": "w",
+    "nachname": "Studer",
+    "anzahl": 53,
+    "rang": 4,
+    "ortbez18": "Solothurn",
+    "Kanton": "SO"
+  },
+  {
+    "plz": 2336,
+    "sexcode": "m",
+    "nachname": "Willemin",
+    "anzahl": 17,
+    "rang": 4,
+    "ortbez18": "Les Bois",
+    "Kanton": "JU"
+  },
+  {
+    "plz": 2336,
+    "sexcode": "m",
+    "nachname": "Boillat",
+    "anzahl": 20,
+    "rang": 3,
+    "ortbez18": "Les Bois",
+    "Kanton": "JU"
+  },
+  {
+    "plz": 2336,
+    "sexcode": "m",
+    "nachname": "Cattoni",
+    "anzahl": 15,
+    "rang": 5,
+    "ortbez18": "Les Bois",
+    "Kanton": "JU"
+  },
+  {
+    "plz": 2336,
+    "sexcode": "m",
+    "nachname": "Cattin",
+    "anzahl": 49,
+    "rang": 1,
+    "ortbez18": "Les Bois",
+    "Kanton": "JU"
+  },
+  {
+    "plz": 2336,
+    "sexcode": "m",
+    "nachname": "Jobin",
+    "anzahl": 22,
+    "rang": 2,
+    "ortbez18": "Les Bois",
+    "Kanton": "JU"
+  },
+  {
+    "plz": 2336,
+    "sexcode": "w",
+    "nachname": "Boillat",
+    "anzahl": 19,
+    "rang": 3,
+    "ortbez18": "Les Bois",
+    "Kanton": "JU"
+  },
+  {
+    "plz": 2336,
+    "sexcode": "w",
+    "nachname": "Bilat",
+    "anzahl": 18,
+    "rang": 4,
+    "ortbez18": "Les Bois",
+    "Kanton": "JU"
+  },
+  {
+    "plz": 2336,
+    "sexcode": "w",
+    "nachname": "Jobin",
+    "anzahl": 17,
+    "rang": 5,
+    "ortbez18": "Les Bois",
+    "Kanton": "JU"
+  },
+  {
+    "plz": 2336,
+    "sexcode": "w",
+    "nachname": "Cattin",
+    "anzahl": 48,
+    "rang": 1,
+    "ortbez18": "Les Bois",
+    "Kanton": "JU"
+  },
+  {
+    "plz": 2336,
+    "sexcode": "w",
+    "nachname": "Willemin",
+    "anzahl": 27,
+    "rang": 2,
+    "ortbez18": "Les Bois",
+    "Kanton": "JU"
+  },
+  {
+    "plz": 2000,
+    "sexcode": "w",
+    "nachname": "Sandoz",
+    "anzahl": 55,
+    "rang": 2,
+    "ortbez18": "Neuchâtel",
+    "Kanton": "NE"
+  },
+  {
+    "plz": 2000,
+    "sexcode": "w",
+    "nachname": "Jacot",
+    "anzahl": 46,
+    "rang": 4,
+    "ortbez18": "Neuchâtel",
+    "Kanton": "NE"
+  },
+  {
+    "plz": 2000,
+    "sexcode": "w",
+    "nachname": "Robert",
+    "anzahl": 45,
+    "rang": 5,
+    "ortbez18": "Neuchâtel",
+    "Kanton": "NE"
+  },
+  {
+    "plz": 2000,
+    "sexcode": "w",
+    "nachname": "Jeanneret",
+    "anzahl": 74,
+    "rang": 1,
+    "ortbez18": "Neuchâtel",
+    "Kanton": "NE"
+  },
+  {
+    "plz": 2000,
+    "sexcode": "w",
+    "nachname": "Bourquin",
+    "anzahl": 50,
+    "rang": 3,
+    "ortbez18": "Neuchâtel",
+    "Kanton": "NE"
+  },
+  {
+    "plz": 2000,
+    "sexcode": "m",
+    "nachname": "Sandoz",
+    "anzahl": 64,
+    "rang": 1,
+    "ortbez18": "Neuchâtel",
+    "Kanton": "NE"
+  },
+  {
+    "plz": 2000,
+    "sexcode": "m",
+    "nachname": "Da Silva",
+    "anzahl": 56,
+    "rang": 4,
+    "ortbez18": "Neuchâtel",
+    "Kanton": "NE"
+  },
+  {
+    "plz": 2000,
+    "sexcode": "m",
+    "nachname": "Dubois",
+    "anzahl": 44,
+    "rang": 5,
+    "ortbez18": "Neuchâtel",
+    "Kanton": "NE"
+  },
+  {
+    "plz": 2000,
+    "sexcode": "m",
+    "nachname": "Jeanneret",
+    "anzahl": 58,
+    "rang": 2,
+    "ortbez18": "Neuchâtel",
+    "Kanton": "NE"
+  },
+  {
+    "plz": 2000,
+    "sexcode": "m",
+    "nachname": "Robert",
+    "anzahl": 57,
+    "rang": 3,
+    "ortbez18": "Neuchâtel",
+    "Kanton": "NE"
+  },
+  {
+    "plz": 1212,
+    "sexcode": "w",
+    "nachname": "Fernandez",
+    "anzahl": 18,
+    "rang": 3,
+    "ortbez18": "Grand-Lancy",
+    "Kanton": "GE"
+  },
+  {
+    "plz": 1212,
+    "sexcode": "m",
+    "nachname": "Perez",
+    "anzahl": 27,
+    "rang": 3,
+    "ortbez18": "Grand-Lancy",
+    "Kanton": "GE"
+  },
+  {
+    "plz": 1212,
+    "sexcode": "m",
+    "nachname": "Uka",
+    "anzahl": 26,
+    "rang": 5,
+    "ortbez18": "Grand-Lancy",
+    "Kanton": "GE"
+  },
+  {
+    "plz": 1212,
+    "sexcode": "w",
+    "nachname": "Ferreira",
+    "anzahl": 25,
+    "rang": 1,
+    "ortbez18": "Grand-Lancy",
+    "Kanton": "GE"
+  },
+  {
+    "plz": 1212,
+    "sexcode": "w",
+    "nachname": "Jaccard",
+    "anzahl": 18,
+    "rang": 3,
+    "ortbez18": "Grand-Lancy",
+    "Kanton": "GE"
+  },
+  {
+    "plz": 1212,
+    "sexcode": "w",
+    "nachname": "Da Costa",
+    "anzahl": 18,
+    "rang": 3,
+    "ortbez18": "Grand-Lancy",
+    "Kanton": "GE"
+  },
+  {
+    "plz": 1212,
+    "sexcode": "m",
+    "nachname": "Ferreira",
+    "anzahl": 39,
+    "rang": 1,
+    "ortbez18": "Grand-Lancy",
+    "Kanton": "GE"
+  },
+  {
+    "plz": 1212,
+    "sexcode": "m",
+    "nachname": "Martin",
+    "anzahl": 27,
+    "rang": 3,
+    "ortbez18": "Grand-Lancy",
+    "Kanton": "GE"
+  },
+  {
+    "plz": 1212,
+    "sexcode": "w",
+    "nachname": "Favre",
+    "anzahl": 21,
+    "rang": 2,
+    "ortbez18": "Grand-Lancy",
+    "Kanton": "GE"
+  },
+  {
+    "plz": 1212,
+    "sexcode": "m",
+    "nachname": "Da Silva",
+    "anzahl": 32,
+    "rang": 2,
+    "ortbez18": "Grand-Lancy",
+    "Kanton": "GE"
+  },
+  {
+    "plz": 1700,
+    "sexcode": "m",
+    "nachname": "Piller",
+    "anzahl": 75,
+    "rang": 1,
+    "ortbez18": "Fribourg",
+    "Kanton": "FR"
+  },
+  {
+    "plz": 1700,
+    "sexcode": "m",
+    "nachname": "Jungo",
+    "anzahl": 66,
+    "rang": 2,
+    "ortbez18": "Fribourg",
+    "Kanton": "FR"
+  },
+  {
+    "plz": 1700,
+    "sexcode": "m",
+    "nachname": "Berset",
+    "anzahl": 64,
+    "rang": 5,
+    "ortbez18": "Fribourg",
+    "Kanton": "FR"
+  },
+  {
+    "plz": 1700,
+    "sexcode": "w",
+    "nachname": "Jungo",
+    "anzahl": 59,
+    "rang": 3,
+    "ortbez18": "Fribourg",
+    "Kanton": "FR"
+  },
+  {
+    "plz": 1700,
+    "sexcode": "m",
+    "nachname": "Aebischer",
+    "anzahl": 66,
+    "rang": 2,
+    "ortbez18": "Fribourg",
+    "Kanton": "FR"
+  },
+  {
+    "plz": 1700,
+    "sexcode": "m",
+    "nachname": "Nguyen",
+    "anzahl": 66,
+    "rang": 2,
+    "ortbez18": "Fribourg",
+    "Kanton": "FR"
+  },
+  {
+    "plz": 1700,
+    "sexcode": "w",
+    "nachname": "Aebischer",
+    "anzahl": 84,
+    "rang": 1,
+    "ortbez18": "Fribourg",
+    "Kanton": "FR"
+  },
+  {
+    "plz": 1700,
+    "sexcode": "w",
+    "nachname": "Kolly",
+    "anzahl": 62,
+    "rang": 2,
+    "ortbez18": "Fribourg",
+    "Kanton": "FR"
+  },
+  {
+    "plz": 1700,
+    "sexcode": "w",
+    "nachname": "Mauron",
+    "anzahl": 52,
+    "rang": 4,
+    "ortbez18": "Fribourg",
+    "Kanton": "FR"
+  }
+
+]
